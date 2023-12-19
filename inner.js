@@ -28,3 +28,10 @@ alert("please fill the data for the survey.")
 const name = prompt("what is your name")
 const age = prompt("what is your name")
 console.log(name, age)
+
+if (name==="bidhan"){
+    console.log("Welcome Bidhan")
+}
+else {
+    console.log("Please re-enter the data")
+}
